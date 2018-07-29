@@ -1,0 +1,11 @@
+1) D ok
+2) n/(1-D) ok
+3) (D*(Ron+Rp)+(1-D)*Rs/(n*n)) ok
+4) (1-D)*Vd/n ok
+5) (1-D)*((Vg*D)-(Vd*((1-D)/n)))/(((1-D)/n)+(((D*(Ron+Rp)+(1-D)*Rs/(n*n))/R)*(n/(1-D))))/(n*D*Vg) ok
+6) D*n*Vg ok
+7) D*Vg/(1-D) ok
+8) D*n*Vg/R ok
+9) A
+10) 2qi1 ok 
+11) Vg*D*Ts/LM
